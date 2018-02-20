@@ -1,0 +1,11 @@
+C:\Users\thiago.barnabe\Documents\Source\Drafts\ViewCompFinal\bin\Debug\netcoreapp1.1\ViewCompFinal.deps.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\ViewCompFinal\bin\Debug\netcoreapp1.1\ViewCompFinal.runtimeconfig.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\ViewCompFinal\bin\Debug\netcoreapp1.1\ViewCompFinal.runtimeconfig.dev.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\ViewCompFinal\bin\Debug\netcoreapp1.1\ViewCompFinal.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\ViewCompFinal\bin\Debug\netcoreapp1.1\ViewCompFinal.pdb
+C:\Users\thiago.barnabe\Documents\Source\Drafts\ViewCompFinal\obj\Debug\netcoreapp1.1\ViewCompFinal.csprojResolveAssemblyReference.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\ViewCompFinal\obj\Debug\netcoreapp1.1\ViewCompFinal.csproj.CoreCompileInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\ViewCompFinal\obj\Debug\netcoreapp1.1\ViewCompFinal.AssemblyInfoInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\ViewCompFinal\obj\Debug\netcoreapp1.1\ViewCompFinal.AssemblyInfo.cs
+C:\Users\thiago.barnabe\Documents\Source\Drafts\ViewCompFinal\obj\Debug\netcoreapp1.1\ViewCompFinal.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\ViewCompFinal\obj\Debug\netcoreapp1.1\ViewCompFinal.pdb
